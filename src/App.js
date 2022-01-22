@@ -2,9 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      TESLA
-    </div>
+    <div className="App">TESLA</div>
   );
 }
 
